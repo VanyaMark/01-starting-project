@@ -15,6 +15,7 @@ const Examples = ({ handleClick }) => {
   return (
     <Section title="Examples" id="examples">
       <Tabs
+
         buttons={
           <>
             <TabButton
